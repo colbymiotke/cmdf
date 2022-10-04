@@ -29,7 +29,6 @@ C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Me
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -280,3 +279,6 @@ C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\ru
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.CopyComplete
+C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\danef\Documents\Logic Internship\Tutorials\MvcMovie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
