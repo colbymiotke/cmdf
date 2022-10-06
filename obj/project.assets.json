@@ -10252,19 +10252,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danef\\.nuget\\packages\\": {}
+    "C:\\Users\\miotk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danef\\Documents\\Logic Internship\\Tutorials\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\codeProjects\\movie\\cmdf-master\\cmdf\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\danef\\Documents\\Logic Internship\\Tutorials\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\danef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danef\\Documents\\Logic Internship\\Tutorials\\MvcMovie\\obj\\",
+      "projectPath": "C:\\Users\\codeProjects\\movie\\cmdf-master\\cmdf\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\miotk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\codeProjects\\movie\\cmdf-master\\cmdf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danef\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\miotk\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
