@@ -3,7 +3,7 @@ using System.Text.Encodings.Web;
 
 namespace MvcMovie.Controllers;
 
-    public class AdminPage : Controller
+    public class child : Controller
     {
 
         public IActionResult Index()
@@ -12,13 +12,13 @@ namespace MvcMovie.Controllers;
         }
     
 
-        public IActionResult AdminLoggedIn()
+        public IActionResult clockinout()
         {
             return View();
         }
 
-        public string tesing()
+       public IActionResult createchild()
         {
-            return "this is the welcome aciton method...";
+            return View();
         }
     }
