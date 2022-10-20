@@ -1,3 +1,5 @@
+@model MvcMovie.Models.Parent
+
 <div class="text-center">
     <h1 class="display-4">Create Parent Profile</h1>
     <p><!DOCTYPE html>
@@ -17,14 +19,14 @@
             <div class="form-body">
                 
 
-                <form style=text-align:center; action=" class="the-form">
+                <form style="text-align:center" asp-action="ParentSignUp">
 
 
                     <label for="FirstName">First Name</label>
-                    <input  type="FirstName" name="FirstName" id="FirstName" placeholder="Enter your First Name"><br><br>
+                    <input  asp-for="FirstName" placeholder="Enter your First Name"><br><br>
 
                     <label for="LastName">Last Name</label>
-                    <input type="LastName" name="LastName" id="LastName" placeholder="Enter your Last Name"><br><br>
+                    <input asp-for="LastName" placeholder="Enter your Last Name"><br><br>
 
                     <label for="PhoneNumber">Phone Number</label>
                     <input  type="PhoneNumber" name="PhoneNumber" id="PhoneNumber" placeholder="Enter your Phone Number"><br><br>
